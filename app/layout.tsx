@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Kava Eco Coffee — Digital Menu',
-  description: 'Café de especialidad, sostenible y consciente. Descubre la carta de Kava Eco Coffee.',
+  title: 'Káva Eco Coffee — Digital Menu',
+  description: 'Café de especialidad, sostenible y consciente. Descubre la carta de Káva Eco Coffee.',
   generator: 'v0.app',
 }
 
